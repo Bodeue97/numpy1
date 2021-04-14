@@ -9,3 +9,10 @@ import numpy as np
 # b = a.astype('int32')
 # print(b)
 # Zad 3
+# def powerOf2Array(n : int):
+#     a = 2**np.mgrid[1:n+1, 1:n+1]
+#     return a
+#
+# print(powerOf2Array(20))
+#Zad 4
+
